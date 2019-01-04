@@ -10,3 +10,6 @@ def maxSubarraySum(A):
     return max_global
 A=[-2,3,2,-1]
 print(maxSubarraySum(A))
+
+Outut:---------
+    [3,2]
