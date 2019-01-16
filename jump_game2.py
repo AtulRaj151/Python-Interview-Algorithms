@@ -1,3 +1,5 @@
+ #In this concept we have used the concept of stair and ladder,we choose the maximum ladder and traverse the ladder hence we decrement the
+ #stair ie.[3 2 1 1 4] in this we can jump the in 2 step in the last index example [3,1]
 class Solution:
     def jump(self,A):
         jump=0
